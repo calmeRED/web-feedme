@@ -80,3 +80,17 @@ sources:
       en: Lex Fridman Podcast
     url: https://lexfridman.com/feed/podcast/
     category: blogs
+    
+  - id: tianxia-today
+    name:
+      zh: 天下杂志-今日最新
+      en: tianxia-today
+    url: https://rsshub.app/cw/today
+    category: news
+    
+  - id: tianxia-finance
+    name:
+      zh: 天下杂志-财经
+      en: tianxia-finance
+    url: https://rsshub.app/cw/master/8
+    category: news
