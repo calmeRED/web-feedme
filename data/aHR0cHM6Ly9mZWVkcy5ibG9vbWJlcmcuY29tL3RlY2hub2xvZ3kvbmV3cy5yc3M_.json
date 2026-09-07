@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Amazon Cargo Plane Overshoots Runway, Closing Miami Airport",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-06/amazon-plane-overshoots-runway-closing-miami-airport-video",
+      "pubDate": "Sun, 06 Sep 2026 21:19:22 GMT",
+      "isoDate": "2026-09-06T21:19:22.000Z",
+      "content": "An Amazon.com Inc. cargo plane overran a runway at Miami International Airport and burst into flames on Sunday, shutting down the airport’s runways and taxiways and prompting an emergency response. This video has been updated to include additional footage. (Source: Bloomberg)",
+      "contentSnippet": "An Amazon.com Inc. cargo plane overran a runway at Miami International Airport and burst into flames on Sunday, shutting down the airport’s runways and taxiways and prompting an emergency response. This video has been updated to include additional footage. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Japan’s Nikkei Gains as Tech Tailwinds Help Balance Macro Nerves",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-07/japanese-stocks-advance-as-tech-chip-shares-follow-us-peers",
+      "pubDate": "Mon, 07 Sep 2026 00:48:55 GMT",
+      "isoDate": "2026-09-07T00:48:55.000Z",
+      "content": "Japan’s Nikkei 225 climbed as tech stocks followed their US peers higher after Friday’s rally. Gains on the broader Topix were smaller as concerns about the yen and bond yields limited risk appetite.",
+      "contentSnippet": "Japan’s Nikkei 225 climbed as tech stocks followed their US peers higher after Friday’s rally. Gains on the broader Topix were smaller as concerns about the yen and bond yields limited risk appetite.",
+      "creator": "Alice French and Momoka Yokoyama",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Australia’s AI Boom Risks Demand Surge and Higher Rates, BE Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-07/australia-s-ai-boom-risks-demand-surge-and-higher-rates-be-says",
+      "pubDate": "Mon, 07 Sep 2026 01:23:56 GMT",
+      "isoDate": "2026-09-07T01:23:56.000Z",
+      "content": "Australia’s data center boom risks pushing demand beyond the economy’s supply capacity, fueling inflation and requiring the Reserve Bank to run higher interest rates, according to James McIntyre at Bloomberg Economics.",
+      "contentSnippet": "Australia’s data center boom risks pushing demand beyond the economy’s supply capacity, fueling inflation and requiring the Reserve Bank to run higher interest rates, according to James McIntyre at Bloomberg Economics.",
+      "creator": "Nasteho Said",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Goldman-Backed Taxi App Says Ridership Good Despite Fare Hikes",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-06/goldman-backed-taxi-app-says-ridership-good-despite-fare-hikes",
+      "pubDate": "Sun, 06 Sep 2026 23:00:10 GMT",
+      "isoDate": "2026-09-06T23:00:10.000Z",
+      "content": "Go Inc., the taxi booking app operator that pulled off Japan’s biggest initial public offering this year, said it is sustaining strong ride volume even after fare hikes.",
+      "contentSnippet": "Go Inc., the taxi booking app operator that pulled off Japan’s biggest initial public offering this year, said it is sustaining strong ride volume even after fare hikes.",
+      "creator": "Yasutaka Tamura and Shery Ahn",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apple’s New CEO-Like Cook Pay Package Shows He’s Going Nowhere; Sept. 9 Event",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1",
+      "pubDate": "Sun, 06 Sep 2026 14:00:01 GMT",
+      "isoDate": "2026-09-06T14:00:01.000Z",
+      "content": "Also: The latest on Apple’s big Sept. 9 event.",
+      "contentSnippet": "Also: The latest on Apple’s big Sept. 9 event.",
+      "creator": "Mark Gurman",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Nigeria’s Antitrust Agency Probes Uber’s Exit From Country",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-06/nigeria-s-antitrust-agency-probes-uber-s-exit-from-country",
+      "pubDate": "Sun, 06 Sep 2026 10:27:21 GMT",
+      "isoDate": "2026-09-06T10:27:21.000Z",
+      "content": "Nigeria’s antitrust commission said it is probing Uber Technologies Inc.’s abrupt exit from the West African nation, after the ride-hailing platform shut down last week without prior notice to users.",
+      "contentSnippet": "Nigeria’s antitrust commission said it is probing Uber Technologies Inc.’s abrupt exit from the West African nation, after the ride-hailing platform shut down last week without prior notice to users.",
+      "creator": "Nduka Orjinmo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-07T04:43:02.582Z"
+}
