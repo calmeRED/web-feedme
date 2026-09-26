@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Hang on to Your Firefox",
+      "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "pubDate": "Tue, 01 Sep 2026 20:30:51 +0000",
+      "isoDate": "2026-09-01T20:30:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.newsonaut.com/articles/hang-on-to-your-firefox\">https://www.newsonaut.com/articles/hang-on-to-your-firefox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527748\">https://news.ycombinator.com/item?id=49527748</a></p>\n<p>Points: 466</p>\n<p># Comments: 247</p>\n",
+      "contentSnippet": "Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox\nComments URL: https://news.ycombinator.com/item?id=49527748\nPoints: 466\n# Comments: 247",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "pubDate": "Tue, 01 Sep 2026 20:07:57 +0000",
+      "isoDate": "2026-09-01T20:07:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://simonwillison.net/2026/Sep/1/codex-libreoffice/\">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527396\">https://news.ycombinator.com/item?id=49527396</a></p>\n<p>Points: 240</p>\n<p># Comments: 117</p>\n",
+      "contentSnippet": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/\nComments URL: https://news.ycombinator.com/item?id=49527396\nPoints: 240\n# Comments: 117",
+      "creator": "timpera",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "link": "https://danluu.com/zitron/",
+      "pubDate": "Tue, 01 Sep 2026 18:35:15 +0000",
+      "isoDate": "2026-09-01T18:35:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://danluu.com/zitron/\">https://danluu.com/zitron/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49526069\">https://news.ycombinator.com/item?id=49526069</a></p>\n<p>Points: 404</p>\n<p># Comments: 492</p>\n",
+      "contentSnippet": "Article URL: https://danluu.com/zitron/\nComments URL: https://news.ycombinator.com/item?id=49526069\nPoints: 404\n# Comments: 492",
+      "creator": "jatins",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "pubDate": "Tue, 01 Sep 2026 17:53:53 +0000",
+      "isoDate": "2026-09-01T17:53:53.000Z",
+      "content": "\n<p>What's new in Claude Fable 5.1\n – <a href=\"https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1\" rel=\"nofollow\">https://platform.claude.com/docs/en/models/fable-5-1/whats-n...</a><p>System Card: <a href=\"https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&%20Claude%20Mythos%205.1%20System%20Card.pdf\" rel=\"nofollow\">https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525378\">https://news.ycombinator.com/item?id=49525378</a></p>\n<p>Points: 923</p>\n<p># Comments: 871</p>\n",
+      "contentSnippet": "What's new in Claude Fable 5.1\n – https://platform.claude.com/docs/en/models/fable-5-1/whats-n...\nSystem Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...\nComments URL: https://news.ycombinator.com/item?id=49525378\nPoints: 923\n# Comments: 871",
+      "creator": "denysvitali",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "pubDate": "Tue, 01 Sep 2026 15:55:53 +0000",
+      "isoDate": "2026-09-01T15:55:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566\">https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523754\">https://news.ycombinator.com/item?id=49523754</a></p>\n<p>Points: 465</p>\n<p># Comments: 198</p>\n",
+      "contentSnippet": "Article URL: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566\nComments URL: https://news.ycombinator.com/item?id=49523754\nPoints: 465\n# Comments: 198",
+      "creator": "erikvanoosten",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "link": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "pubDate": "Tue, 01 Sep 2026 15:53:42 +0000",
+      "isoDate": "2026-09-01T15:53:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/\">https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523720\">https://news.ycombinator.com/item?id=49523720</a></p>\n<p>Points: 199</p>\n<p># Comments: 202</p>\n",
+      "contentSnippet": "Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/\nComments URL: https://news.ycombinator.com/item?id=49523720\nPoints: 199\n# Comments: 202",
+      "creator": "Limb",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "link": "https://ambientcss.vercel.app/",
+      "pubDate": "Tue, 01 Sep 2026 15:35:11 +0000",
+      "isoDate": "2026-09-01T15:35:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ambientcss.vercel.app/\">https://ambientcss.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523387\">https://news.ycombinator.com/item?id=49523387</a></p>\n<p>Points: 192</p>\n<p># Comments: 68</p>\n",
+      "contentSnippet": "Article URL: https://ambientcss.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49523387\nPoints: 192\n# Comments: 68",
+      "creator": "kikkupico",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "link": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "pubDate": "Tue, 01 Sep 2026 13:46:49 +0000",
+      "isoDate": "2026-09-01T13:46:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/\">https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521973\">https://news.ycombinator.com/item?id=49521973</a></p>\n<p>Points: 301</p>\n<p># Comments: 106</p>\n",
+      "contentSnippet": "Article URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/\nComments URL: https://news.ycombinator.com/item?id=49521973\nPoints: 301\n# Comments: 106",
+      "creator": "HieronymusBosch",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "pubDate": "Tue, 01 Sep 2026 10:11:02 +0000",
+      "isoDate": "2026-09-01T10:11:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/ankidroid/Anki-Android/issues/21656\">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49520022\">https://news.ycombinator.com/item?id=49520022</a></p>\n<p>Points: 830</p>\n<p># Comments: 246</p>\n",
+      "contentSnippet": "Article URL: https://github.com/ankidroid/Anki-Android/issues/21656\nComments URL: https://news.ycombinator.com/item?id=49520022\nPoints: 830\n# Comments: 246",
+      "creator": "hexa555",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "link": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "pubDate": "Tue, 01 Sep 2026 09:52:45 +0000",
+      "isoDate": "2026-09-01T09:52:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mvakde.github.io/blog/44-on-arc-1/\">https://mvakde.github.io/blog/44-on-arc-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49519939\">https://news.ycombinator.com/item?id=49519939</a></p>\n<p>Points: 576</p>\n<p># Comments: 149</p>\n",
+      "contentSnippet": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/\nComments URL: https://news.ycombinator.com/item?id=49519939\nPoints: 576\n# Comments: 149",
+      "creator": "porridgeraisin",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Restroom Archive",
+      "link": "https://restroomarchive.com",
+      "pubDate": "Tue, 01 Sep 2026 03:23:48 +0000",
+      "isoDate": "2026-09-01T03:23:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://restroomarchive.com\">https://restroomarchive.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517624\">https://news.ycombinator.com/item?id=49517624</a></p>\n<p>Points: 365</p>\n<p># Comments: 83</p>\n",
+      "contentSnippet": "Article URL: https://restroomarchive.com\nComments URL: https://news.ycombinator.com/item?id=49517624\nPoints: 365\n# Comments: 83",
+      "creator": "jcalx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GPU World",
+      "link": "https://www.gpuworld.org/",
+      "pubDate": "Tue, 01 Sep 2026 03:16:36 +0000",
+      "isoDate": "2026-09-01T03:16:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.gpuworld.org/\">https://www.gpuworld.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517584\">https://news.ycombinator.com/item?id=49517584</a></p>\n<p>Points: 392</p>\n<p># Comments: 269</p>\n",
+      "contentSnippet": "Article URL: https://www.gpuworld.org/\nComments URL: https://news.ycombinator.com/item?id=49517584\nPoints: 392\n# Comments: 269",
+      "creator": "simonpure",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Fastpotify",
+      "link": "https://fastpotify.rocks/",
+      "pubDate": "Tue, 01 Sep 2026 02:52:14 +0000",
+      "isoDate": "2026-09-01T02:52:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://fastpotify.rocks/\">https://fastpotify.rocks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517448\">https://news.ycombinator.com/item?id=49517448</a></p>\n<p>Points: 805</p>\n<p># Comments: 534</p>\n",
+      "contentSnippet": "Article URL: https://fastpotify.rocks/\nComments URL: https://news.ycombinator.com/item?id=49517448\nPoints: 805\n# Comments: 534",
+      "creator": "nreece",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "link": "https://datacolada.org/138",
+      "pubDate": "Mon, 31 Aug 2026 23:45:56 +0000",
+      "isoDate": "2026-08-31T23:45:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://datacolada.org/138\">https://datacolada.org/138</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516199\">https://news.ycombinator.com/item?id=49516199</a></p>\n<p>Points: 347</p>\n<p># Comments: 258</p>\n",
+      "contentSnippet": "Article URL: https://datacolada.org/138\nComments URL: https://news.ycombinator.com/item?id=49516199\nPoints: 347\n# Comments: 258",
+      "creator": "Anon84",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Run macOS Software on Linux",
+      "link": "https://www.darlinghq.org/",
+      "pubDate": "Mon, 31 Aug 2026 22:53:45 +0000",
+      "isoDate": "2026-08-31T22:53:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.darlinghq.org/\">https://www.darlinghq.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49515830\">https://news.ycombinator.com/item?id=49515830</a></p>\n<p>Points: 277</p>\n<p># Comments: 85</p>\n",
+      "contentSnippet": "Article URL: https://www.darlinghq.org/\nComments URL: https://news.ycombinator.com/item?id=49515830\nPoints: 277\n# Comments: 85",
+      "creator": "Bluestein",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "link": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "pubDate": "Mon, 31 Aug 2026 21:10:58 +0000",
+      "isoDate": "2026-08-31T21:10:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://webiterate.dev/google-removed-extensions-ublock-origin-108/\">https://webiterate.dev/google-removed-extensions-ublock-origin-108/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49514878\">https://news.ycombinator.com/item?id=49514878</a></p>\n<p>Points: 740</p>\n<p># Comments: 593</p>\n",
+      "contentSnippet": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/\nComments URL: https://news.ycombinator.com/item?id=49514878\nPoints: 740\n# Comments: 593",
+      "creator": "twapi",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "pubDate": "Mon, 31 Aug 2026 18:21:33 +0000",
+      "isoDate": "2026-08-31T18:21:33.000Z",
+      "content": "\n<p><i>ASCII City: Traffic and Detail Update</i> - <a href=\"https://www.youtube.com/watch?v=DSRooHo_HSI\" rel=\"nofollow\">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href=\"https://www.youtube.com/watch?v=UCKEDWowc0o\" rel=\"nofollow\">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512975\">https://news.ycombinator.com/item?id=49512975</a></p>\n<p>Points: 389</p>\n<p># Comments: 59</p>\n",
+      "contentSnippet": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI\nASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o\nComments URL: https://news.ycombinator.com/item?id=49512975\nPoints: 389\n# Comments: 59",
+      "creator": "keithcarolus",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "pubDate": "Mon, 31 Aug 2026 16:47:11 +0000",
+      "isoDate": "2026-08-31T16:47:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\">https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49511856\">https://news.ycombinator.com/item?id=49511856</a></p>\n<p>Points: 614</p>\n<p># Comments: 167</p>\n",
+      "contentSnippet": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\nComments URL: https://news.ycombinator.com/item?id=49511856\nPoints: 614\n# Comments: 167",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "link": "https://ravynos.com/",
+      "pubDate": "Mon, 31 Aug 2026 16:19:36 +0000",
+      "isoDate": "2026-08-31T16:19:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ravynos.com/\">https://ravynos.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49511534\">https://news.ycombinator.com/item?id=49511534</a></p>\n<p>Points: 231</p>\n<p># Comments: 136</p>\n",
+      "contentSnippet": "Article URL: https://ravynos.com/\nComments URL: https://news.ycombinator.com/item?id=49511534\nPoints: 231\n# Comments: 136",
+      "creator": "Bluestein",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Playa Phone",
+      "link": "https://playaphone.com/",
+      "pubDate": "Mon, 31 Aug 2026 14:52:26 +0000",
+      "isoDate": "2026-08-31T14:52:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://playaphone.com/\">https://playaphone.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510514\">https://news.ycombinator.com/item?id=49510514</a></p>\n<p>Points: 738</p>\n<p># Comments: 225</p>\n",
+      "contentSnippet": "Article URL: https://playaphone.com/\nComments URL: https://news.ycombinator.com/item?id=49510514\nPoints: 738\n# Comments: 225",
+      "creator": "cutoff",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "link": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "pubDate": "Mon, 31 Aug 2026 14:07:15 +0000",
+      "isoDate": "2026-08-31T14:07:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://codex-tool-reference.simonw.chatgpt.site/\">https://codex-tool-reference.simonw.chatgpt.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510000\">https://news.ycombinator.com/item?id=49510000</a></p>\n<p>Points: 238</p>\n<p># Comments: 61</p>\n",
+      "contentSnippet": "Article URL: https://codex-tool-reference.simonw.chatgpt.site/\nComments URL: https://news.ycombinator.com/item?id=49510000\nPoints: 238\n# Comments: 61",
+      "creator": "ijidak",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "pubDate": "Mon, 31 Aug 2026 12:41:22 +0000",
+      "isoDate": "2026-08-31T12:41:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\">https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508982\">https://news.ycombinator.com/item?id=49508982</a></p>\n<p>Points: 491</p>\n<p># Comments: 584</p>\n",
+      "contentSnippet": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\nComments URL: https://news.ycombinator.com/item?id=49508982\nPoints: 491\n# Comments: 584",
+      "creator": "thm",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I think the military commissary's freezers were hacked",
+      "link": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "pubDate": "Mon, 31 Aug 2026 11:45:48 +0000",
+      "isoDate": "2026-08-31T11:45:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary\">https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508506\">https://news.ycombinator.com/item?id=49508506</a></p>\n<p>Points: 393</p>\n<p># Comments: 235</p>\n",
+      "contentSnippet": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary\nComments URL: https://news.ycombinator.com/item?id=49508506\nPoints: 393\n# Comments: 235",
+      "creator": "jcurbo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenShot 4.0 – Open-source video editor",
+      "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "pubDate": "Mon, 31 Aug 2026 09:59:05 +0000",
+      "isoDate": "2026-08-31T09:59:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/\">https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49507822\">https://news.ycombinator.com/item?id=49507822</a></p>\n<p>Points: 589</p>\n<p># Comments: 137</p>\n",
+      "contentSnippet": "Article URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/\nComments URL: https://news.ycombinator.com/item?id=49507822\nPoints: 589\n# Comments: 137",
+      "creator": "metrofun",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "pubDate": "Mon, 31 Aug 2026 07:49:18 +0000",
+      "isoDate": "2026-08-31T07:49:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/\">https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506819\">https://news.ycombinator.com/item?id=49506819</a></p>\n<p>Points: 394</p>\n<p># Comments: 119</p>\n",
+      "contentSnippet": "Article URL: https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/\nComments URL: https://news.ycombinator.com/item?id=49506819\nPoints: 394\n# Comments: 119",
+      "creator": "Recursing",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "pubDate": "Mon, 31 Aug 2026 06:10:44 +0000",
+      "isoDate": "2026-08-31T06:10:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/\">https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506182\">https://news.ycombinator.com/item?id=49506182</a></p>\n<p>Points: 387</p>\n<p># Comments: 88</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/\nComments URL: https://news.ycombinator.com/item?id=49506182\nPoints: 387\n# Comments: 88",
+      "creator": "WithinReason",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "uv: Deduplicate all files in the wheel cache",
+      "link": "https://github.com/astral-sh/uv/pull/21327",
+      "pubDate": "Mon, 31 Aug 2026 06:03:02 +0000",
+      "isoDate": "2026-08-31T06:03:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/astral-sh/uv/pull/21327\">https://github.com/astral-sh/uv/pull/21327</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506142\">https://news.ycombinator.com/item?id=49506142</a></p>\n<p>Points: 230</p>\n<p># Comments: 118</p>\n",
+      "contentSnippet": "Article URL: https://github.com/astral-sh/uv/pull/21327\nComments URL: https://news.ycombinator.com/item?id=49506142\nPoints: 230\n# Comments: 118",
+      "creator": "tosh",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "link": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "pubDate": "Mon, 31 Aug 2026 03:20:33 +0000",
+      "isoDate": "2026-08-31T03:20:33.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\">https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505219\">https://news.ycombinator.com/item?id=49505219</a></p>\n<p>Points: 220</p>\n<p># Comments: 86</p>\n",
+      "contentSnippet": "Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\nComments URL: https://news.ycombinator.com/item?id=49505219\nPoints: 220\n# Comments: 86",
+      "creator": "dbalatero",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Internet centralization and the original sin of NAT",
+      "link": "https://dreamstation.systems/personal/ntppost.html",
+      "pubDate": "Mon, 31 Aug 2026 02:23:03 +0000",
+      "isoDate": "2026-08-31T02:23:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dreamstation.systems/personal/ntppost.html\">https://dreamstation.systems/personal/ntppost.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504905\">https://news.ycombinator.com/item?id=49504905</a></p>\n<p>Points: 225</p>\n<p># Comments: 173</p>\n",
+      "contentSnippet": "Article URL: https://dreamstation.systems/personal/ntppost.html\nComments URL: https://news.ycombinator.com/item?id=49504905\nPoints: 225\n# Comments: 173",
+      "creator": "robinpie",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Understanding ChatGPT Work",
+      "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "pubDate": "Mon, 31 Aug 2026 01:28:22 +0000",
+      "isoDate": "2026-08-31T01:28:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504625\">https://news.ycombinator.com/item?id=49504625</a></p>\n<p>Points: 347</p>\n<p># Comments: 194</p>\n",
+      "contentSnippet": "Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\nComments URL: https://news.ycombinator.com/item?id=49504625\nPoints: 347\n# Comments: 194",
+      "creator": "gmays",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-02T01:37:01.259Z"
+}
