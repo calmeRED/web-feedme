@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/huggingface/daily-papers",
+  "title": "Huggingface Daily Papers",
+  "description": "Huggingface Daily Papers - Powered by RSSHub",
+  "link": "https://huggingface.co/papers",
+  "items": [
+    {
+      "title": "The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Consent Engineering",
+      "link": "https://arxiv.org/abs/2608.27509",
+      "pubDate": "Sun, 30 Aug 2026 20:00:00 GMT",
+      "isoDate": "2026-08-30T20:00:00.000Z",
+      "content": "Traditional frameworks of political communication operate under linear, event-driven assumptions that treat voter persuasion as a static, transactional function. This paper introduces Dynamic Consent Engineering (DCE), a novel interdisciplinary paradigm that synthesizes Edward Bernays' foundational principles of public relations with the S-E-E-D (Snowball, Equilibrium, Elasticity, Dominance) framework of system dynamics. By expanding Bernaysian operational constraints into a four-dimensional resource matrix (incorporating algorithmic media infrastructure alongside manpower, mindpower, and capital), we mathematically formalize how democratic institutions construct, optimize, and sustain political dominance. We map Bernays' classic eight-step engineering workflow directly onto non-linear feedback loops, information time lags, and demographic carrying capacities. Through rigorous modeling of systemic feedback structures, we isolate the dynamic root causes of political elasticity, policy resistance plateaus, and threshold-triggered trust collapses. Finally, we establish a four-step diagnostic pipeline and validate the framework via historical reference mode verification, demonstrating that long-term political stability depends not on ephemeral rhetoric, but on the structural synchronization of policy execution and dynamic feedback calibration.",
+      "contentSnippet": "Traditional frameworks of political communication operate under linear, event-driven assumptions that treat voter persuasion as a static, transactional function. This paper introduces Dynamic Consent Engineering (DCE), a novel interdisciplinary paradigm that synthesizes Edward Bernays' foundational principles of public relations with the S-E-E-D (Snowball, Equilibrium, Elasticity, Dominance) framework of system dynamics. By expanding Bernaysian operational constraints into a four-dimensional resource matrix (incorporating algorithmic media infrastructure alongside manpower, mindpower, and capital), we mathematically formalize how democratic institutions construct, optimize, and sustain political dominance. We map Bernays' classic eight-step engineering workflow directly onto non-linear feedback loops, information time lags, and demographic carrying capacities. Through rigorous modeling of systemic feedback structures, we isolate the dynamic root causes of political elasticity, policy resistance plateaus, and threshold-triggered trust collapses. Finally, we establish a four-step diagnostic pipeline and validate the framework via historical reference mode verification, demonstrating that long-term political stability depends not on ephemeral rhetoric, but on the structural synchronization of policy execution and dynamic feedback calibration.",
+      "creator": "Muhammad Sukri Bin Ramli",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal",
+      "link": "https://arxiv.org/abs/2608.28612",
+      "pubDate": "Mon, 20 Jul 2026 20:00:00 GMT",
+      "isoDate": "2026-07-20T20:00:00.000Z",
+      "content": "Generating professional scholarly content, such as peer reviews and rebuttals, requires an intricate synergy between domain reasoning and factual grounding. This work presents a comprehensive framework for the development and evaluation of specialized scholarly agents, InternReviewer and InternAdvocate. We first establish a large-scale, high-quality scholarly dataset and integrate a high-efficiency arXiv retrieval tool to enable active evidence gathering. To optimize these agents, we implement an agentic Reinforcement Learning (RL) paradigm driven by a unified objective metric and reward system. This system avoids the biases of subjective model-based judging by employing multi-dimensional criteria, including reference-anchored semantic alignment, structural compliance, and a strict verification mechanism that cross-checks citations against real-time interaction logs to eliminate hallucinations. Experimental results demonstrate that agents trained within this closed-loop framework exhibit significant improvements in reasoning depth and citation accuracy.",
+      "contentSnippet": "Generating professional scholarly content, such as peer reviews and rebuttals, requires an intricate synergy between domain reasoning and factual grounding. This work presents a comprehensive framework for the development and evaluation of specialized scholarly agents, InternReviewer and InternAdvocate. We first establish a large-scale, high-quality scholarly dataset and integrate a high-efficiency arXiv retrieval tool to enable active evidence gathering. To optimize these agents, we implement an agentic Reinforcement Learning (RL) paradigm driven by a unified objective metric and reward system. This system avoids the biases of subjective model-based judging by employing multi-dimensional criteria, including reference-anchored semantic alignment, structural compliance, and a strict verification mechanism that cross-checks citations against real-time interaction logs to eliminate hallucinations. Experimental results demonstrate that agents trained within this closed-loop framework exhibit significant improvements in reasoning depth and citation accuracy.",
+      "creator": "Xuerui Su, Liya Guo, Qizhi Pei, Qipeng Guo, Zhongbo Tian, Lijun Wu, Kai Chen, Zun Wang",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-02T01:41:02.601Z"
+}
