@@ -1,0 +1,545 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "The latest AI news we announced in August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "pubDate": "Tue, 01 Sep 2026 20:45:00 +0000",
+      "isoDate": "2026-09-01T20:45:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from August 2026",
+      "contentSnippet": "Here are Google’s latest AI updates from August 2026",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "September Android Drop: Remember where you put things, ease motion sickness, and more",
+      "link": "https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/",
+      "pubDate": "Tue, 01 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-01T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Drop_Header_Still.max-600x600.format-webp.webp\">Keep track of important items, reduce motion sickness during your ride, create and edit notes right from your chat, and more.",
+      "contentSnippet": "Keep track of important items, reduce motion sickness during your ride, create and edit notes right from your chat, and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Erik Kay"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Engineering for Android Core Platform"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-01T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp\">We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
+      "contentSnippet": "We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Rohan Doshi"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/",
+      "pubDate": "Tue, 01 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-01T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp\">A Google DeepMind scientist explains how AI weather prediction works and how it can help warn communities earlier than ever.",
+      "contentSnippet": "A Google DeepMind scientist explains how AI weather prediction works and how it can help warn communities earlier than ever.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Hannah Hunt"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "pubDate": "Tue, 01 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-01T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp\">Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "contentSnippet": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Meg Whittenberger"
+        ],
+        "title": [
+          "Google Pics Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/",
+      "pubDate": "Mon, 31 Aug 2026 22:00:00 +0000",
+      "isoDate": "2026-08-31T22:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teamwork_social.max-600x600.format-webp.webp\">Gemini 3.7 Flash powers autonomous agent teams in Antigravity to solve open math problems, build CPU emulators, and optimize OSS.",
+      "contentSnippet": "Gemini 3.7 Flash powers autonomous agent teams in Antigravity to solve open math problems, build CPU emulators, and optimize OSS.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
+      "link": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
+      "pubDate": "Sat, 29 Aug 2026 04:00:00 +0000",
+      "isoDate": "2026-08-29T04:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp\">The U.S. Geographic Names Information System (GNIS) has formally changed the name for \"Lake Ontario\" to \"Lake America\" in the United States. Since we update Google Maps …",
+      "contentSnippet": "The U.S. Geographic Names Information System (GNIS) has formally changed the name for \"Lake Ontario\" to \"Lake America\" in the United States. Since we update Google Maps …",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re introducing flexible usage limits for Gemini Notebook.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
+      "pubDate": "Fri, 28 Aug 2026 17:00:00 +0000",
+      "isoDate": "2026-08-28T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_Metering_social.max-600x600.format-webp.webp\">We’re introducing new flexible, compute-specific usage limits to Gemini Notebook.",
+      "contentSnippet": "We’re introducing new flexible, compute-specific usage limits to Gemini Notebook.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yesul Shin"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Gemini Notebook"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Expert Intelligence: a new way for you to engage with trusted content",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
+      "pubDate": "Thu, 27 Aug 2026 19:30:00 +0000",
+      "isoDate": "2026-08-27T19:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp\">Expert Intelligence lets you add ebooks like those you’ve purchased from Google Play Books directly to a Gemini Notebook.",
+      "contentSnippet": "Expert Intelligence lets you add ebooks like those you’ve purchased from Google Play Books directly to a Gemini Notebook.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Steven Johnson"
+        ],
+        "title": [
+          "Editorial Director, Google Labs"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-27T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp\">Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "contentSnippet": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "James Byers"
+        ],
+        "title": [
+          "Group Product Manager, Search"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-27T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.max-600x600.format-webp.webp\">Gemini Omni 1.1 Flash brings a new suite of creative controls and generative video capabilities to developers.",
+      "contentSnippet": "Gemini Omni 1.1 Flash brings a new suite of creative controls and generative video capabilities to developers.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Anish Nangia"
+        ],
+        "title": [
+          "Product Manager, Google DeepMind"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Partnering with Khan Academy on building AI tools for classrooms",
+      "link": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/",
+      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-27T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp\">Interactive visual aids and teacher-controlled practice materials — both built with Gemini — are launching for the new school year.",
+      "contentSnippet": "Interactive visual aids and teacher-controlled practice materials — both built with Gemini — are launching for the new school year.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jen Carter"
+        ],
+        "title": [
+          "Head of Technology at Google.org"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google Flow brings new creative control features to enhance video editing.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/",
+      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-27T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp\">At Google I/O, we launched Gemini Omni Flash in Google Flow, bringing new video editing capabilities to creatives. Today we’re rolling out updates via Gemini Omni 1.1 Fl…",
+      "contentSnippet": "At Google I/O, we launched Gemini Omni Flash in Google Flow, bringing new video editing capabilities to creatives. Today we’re rolling out updates via Gemini Omni 1.1 Fl…",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Reach your audience in new ways with August’s Demand Gen Drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/",
+      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-27T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp\">Drive high-quality leads and acquire customers with new messaging, travel, and creative features in YouTube’s August Demand Gen Drop.",
+      "contentSnippet": "Drive high-quality leads and acquire customers with new messaging, travel, and creative features in YouTube’s August Demand Gen Drop.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Our Fitbit Air Special Edition Pokémon Sleep is here",
+      "link": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air-special-edition-pokemon-sleep/",
+      "pubDate": "Thu, 27 Aug 2026 13:00:00 +0000",
+      "isoDate": "2026-08-27T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pokemon_fitbit_herosocial.max-600x600.format-webp.webp\">Level up your sleep routine with the Fitbit Air Special Edition Pokémon Sleep, which makes tracking your sleep more fun.",
+      "contentSnippet": "Level up your sleep routine with the Fitbit Air Special Edition Pokémon Sleep, which makes tracking your sleep more fun.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sierra Salinas"
+        ],
+        "title": [
+          "Google Health Product Marketing Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "7 ways to kick-start back to school using Gemini in Workspace",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+      "pubDate": "Wed, 26 Aug 2026 20:30:00 +0000",
+      "isoDate": "2026-08-26T20:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Student-blog-header.max-600x600.format-webp.webp\">Get a jump on this semester by using Gemini in Google Workspace to organize your notes, track deadlines, prep for projects, and more.",
+      "contentSnippet": "Get a jump on this semester by using Gemini in Google Workspace to organize your notes, track deadlines, prep for projects, and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yulie Kwon Kim"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Product"
+        ],
+        "company": [
+          "Google Workspace"
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "pubDate": "Wed, 26 Aug 2026 17:00:00 +0000",
+      "isoDate": "2026-08-26T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp\">Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "contentSnippet": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Diego Melendo Casado"
+        ],
+        "title": [
+          "Senior Director, Engineering, Gemini Audio"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Turn your voice into action with new productivity features in Gemini Live",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+      "pubDate": "Wed, 26 Aug 2026 17:00:00 +0000",
+      "isoDate": "2026-08-26T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp\">We’re rolling out a major productivity upgrade to Gemini Live so you can use your voice to delegate your to-dos without missing a beat.",
+      "contentSnippet": "We’re rolling out a major productivity upgrade to Gemini Live so you can use your voice to delegate your to-dos without missing a beat.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Neel Joshi"
+        ],
+        "title": [
+          "Director of Product Management"
+        ],
+        "department": [
+          "Gemini Live"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "28 startups using AI to transform the energy sector",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai/",
+      "pubDate": "Wed, 26 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-26T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28_startups_Hero_2784x1566.max-600x600.format-webp.webp\">Spanning North America and Europe, the energy-focused, AI-driven startups were selected for the Google for Startups Accelerator.",
+      "contentSnippet": "Spanning North America and Europe, the energy-focused, AI-driven startups were selected for the Google for Startups Accelerator.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Amanda Peterson Corio"
+        ],
+        "title": [
+          "Global Head of Data Center Energy"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Google at the Global Forum on Intellectual Property",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/",
+      "pubDate": "Wed, 26 Aug 2026 04:15:00 +0000",
+      "isoDate": "2026-08-26T04:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DZ8_8197.max-600x600.format-webp.webp\">Read remarks from Kent Walker, President of Global Affairs for Google and Alphabet, to the Global Forum on Intellectual Property.",
+      "contentSnippet": "Read remarks from Kent Walker, President of Global Affairs for Google and Alphabet, to the Global Forum on Intellectual Property.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kent Walker"
+        ],
+        "title": [
+          "President of Global Affairs"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          "Google & Alphabet"
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-02T01:38:26.853Z"
+}

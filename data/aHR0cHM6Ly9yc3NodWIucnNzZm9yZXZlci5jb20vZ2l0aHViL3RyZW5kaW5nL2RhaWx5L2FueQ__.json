@@ -1,0 +1,205 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "Gitlawb/openclaude",
+      "link": "https://github.com/Gitlawb/openclaude",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/078734da3ddc23f86b2ebd3576e126bf143d83af615747480fab6a27cf1b0441/Gitlawb/openclaude\" referrerpolicy=\"no-referrer\"><br>runs anywhere. uses anything<br><br>Language: TypeScript<br>Stars: 31328<br>Forks: 8951",
+      "contentSnippet": "runs anywhere. uses anything\nLanguage: TypeScript\nStars: 31328\nForks: 8951",
+      "creator": "Gitlawb",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Imbad0202/academic-research-skills",
+      "link": "https://github.com/Imbad0202/academic-research-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4afc091ee39f2950f55ba963e2f41ff50c750a2fc556d5725c058d80f2c80d7f/Imbad0202/academic-research-skills\" referrerpolicy=\"no-referrer\"><br>Academic Research Skills for Claude Code: research → write → review → revise → finalize<br><br>Language: Python<br>Stars: 44925<br>Forks: 3551",
+      "contentSnippet": "Academic Research Skills for Claude Code: research → write → review → revise → finalize\nLanguage: Python\nStars: 44925\nForks: 3551",
+      "creator": "Imbad0202",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "THU-MAIC/OpenMAIC",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/42b405fb67b48b5e6e37e5bed9d8ba369a04c7251368ba62f6258d284df0337b/THU-MAIC/OpenMAIC\" referrerpolicy=\"no-referrer\"><br>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click<br><br>Language: TypeScript<br>Stars: 29536<br>Forks: 4978",
+      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\nLanguage: TypeScript\nStars: 29536\nForks: 4978",
+      "creator": "THU-MAIC",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "iv-org/invidious",
+      "link": "https://github.com/iv-org/invidious",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0144e3003642be6cbb6279c452fd1ae89452fcea5c8ca2bf9a19a26bc6b6722b/iv-org/invidious\" referrerpolicy=\"no-referrer\"><br>Invidious is an alternative front-end to YouTube<br><br>Language: Crystal<br>Stars: 23774<br>Forks: 2674",
+      "contentSnippet": "Invidious is an alternative front-end to YouTube\nLanguage: Crystal\nStars: 23774\nForks: 2674",
+      "creator": "iv-org",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "link": "https://github.com/jingyaogong/minimind",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/02b3b6d2bd3ec72459f6d7e168c6612a1dd741a101de8b3cd65a6ba5133c0ed8/jingyaogong/minimind\" referrerpolicy=\"no-referrer\"><br>🧠 Train a 64M-parameter LLM from scratch in just 2h!<br><br>Language: Python<br>Stars: 57109<br>Forks: 7425",
+      "contentSnippet": "🧠 Train a 64M-parameter LLM from scratch in just 2h!\nLanguage: Python\nStars: 57109\nForks: 7425",
+      "creator": "jingyaogong",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "3b1b/manim",
+      "link": "https://github.com/3b1b/manim",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1648d536a09289b0203f1583fc550535b89a5917ab08c51cfa11fb7b8bdbb826/3b1b/manim\" referrerpolicy=\"no-referrer\"><br>Animation engine for explanatory math videos<br><br>Language: Python<br>Stars: 92574<br>Forks: 7618",
+      "contentSnippet": "Animation engine for explanatory math videos\nLanguage: Python\nStars: 92574\nForks: 7618",
+      "creator": "3b1b",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "firecrawl/pdf-inspector",
+      "link": "https://github.com/firecrawl/pdf-inspector",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/30545c264f90e974cf430d9f5eb06f85a75dd986252a94bb105e136f7a3dc88b/firecrawl/pdf-inspector\" referrerpolicy=\"no-referrer\"><br>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.<br><br>Language: Rust<br>Stars: 17953<br>Forks: 1223",
+      "contentSnippet": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.\nLanguage: Rust\nStars: 17953\nForks: 1223",
+      "creator": "firecrawl",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "browser-use/video-use",
+      "link": "https://github.com/browser-use/video-use",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c4cc61f767aa1daf7b0d2e6c70596a18ca9d24f4d2884ef97129bcef62b207b4/browser-use/video-use\" referrerpolicy=\"no-referrer\"><br>Edit videos with coding agents<br><br>Language: Python<br>Stars: 22966<br>Forks: 2815",
+      "contentSnippet": "Edit videos with coding agents\nLanguage: Python\nStars: 22966\nForks: 2815",
+      "creator": "browser-use",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a07a4c337e12616bbf84726ea6bc32d6aa67eccbeb49965615e3f89fb5dad708/K-Dense-AI/scientific-agent-skills\" referrerpolicy=\"no-referrer\"><br>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.<br><br>Language: Python<br>Stars: 41561<br>Forks: 3827",
+      "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nLanguage: Python\nStars: 41561\nForks: 3827",
+      "creator": "K-Dense-AI",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "handsomestWei/patent-disclosure-skill",
+      "link": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2b249cc673baf9706ecd0f78f087fe03ea11ac4204d29ddd7d0ab3e7b4a4acd9/handsomestWei/patent-disclosure-skill\" referrerpolicy=\"no-referrer\"><br>中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。<br><br>Language: Python<br>Stars: 6736<br>Forks: 760",
+      "contentSnippet": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。\nLanguage: Python\nStars: 6736\nForks: 760",
+      "creator": "handsomestWei",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "link": "https://github.com/VoltAgent/awesome-design-md",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0fb606bcd91c2a4cb56ba42eb4b3cdf1ddc26cf7a942d01c84f64e14bc7f18b7/VoltAgent/awesome-design-md\" referrerpolicy=\"no-referrer\"><br>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.<br><br>Language: Unknown<br>Stars: 112809<br>Forks: 12775",
+      "contentSnippet": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.\nLanguage: Unknown\nStars: 112809\nForks: 12775",
+      "creator": "VoltAgent",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "averygan/reclip",
+      "link": "https://github.com/averygan/reclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3aa9ed7ca888b0c9ddc483144932be09776c50826337ab81b7b74b0d3b0f38d4/averygan/reclip\" referrerpolicy=\"no-referrer\"><br>Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.<br><br>Language: HTML<br>Stars: 7684<br>Forks: 1317",
+      "contentSnippet": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.\nLanguage: HTML\nStars: 7684\nForks: 1317",
+      "creator": "averygan",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c04d4912cb641780d771b637c3b440b8c6917189f99ccadebed51e7d58fdd6d9/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 245779<br>Forks: 37088",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 245779\nForks: 37088",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "unclecode/crawl4ai",
+      "link": "https://github.com/unclecode/crawl4ai",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6367e8ef889f6f9edd3521446254d9dea44df35c784628a3b1b543dcf9493814/unclecode/crawl4ai\" referrerpolicy=\"no-referrer\"><br>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN<br><br>Language: Python<br>Stars: 80866<br>Forks: 8357",
+      "contentSnippet": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN\nLanguage: Python\nStars: 80866\nForks: 8357",
+      "creator": "unclecode",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-02T01:40:28.664Z"
+}
